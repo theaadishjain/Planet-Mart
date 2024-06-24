@@ -7,4 +7,4 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="Planet-Mart.jpg" alt="project-screenshot" width="400" height="400/">
+<img src="Planet-Mart.jpg" alt="project-screenshot" width="600" height="400/">
